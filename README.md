@@ -26,7 +26,7 @@ This project tackles two research questions:
 
 ### Clustering Analysis
 - Identified **6 distinct genre families** using hierarchical clustering
-- Achieved **90.3% cluster coherence** (silhouette score: 0.43)
+- Achieved strong cluster coherence with a silhouette score of 0.43
 - Discovered that **electronic** and **experimental** genres form tight clusters
 - Found **rock** subgenres span multiple clusters, suggesting high diversity
 
