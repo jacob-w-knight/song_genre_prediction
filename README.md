@@ -58,7 +58,7 @@ This project tackles two research questions:
 
 #### Supervised Classification
 - **Neural Network**: 5-layer architecture (256→128→64→32→output)
-- **XGBoost**: Tuned with Optuna (max_depth=8, learning_rate=0.01)
+- **XGBoost**: Chosen for maximum efficiency of gradient boosting
 <!-- - **Evaluation**: Stratified 5-fold cross-validation -->
 
 ### Key Technologies
